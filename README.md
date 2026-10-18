@@ -37,17 +37,14 @@ These students are a good initial user group because many of them apply to a lar
 - **Recruiting statistics:** Total applications submitted, number that led to interviews, response rate, and active applications.
 ---
 
-## Core Team Team 
-
-| Name | GitHub | Other links |
-| --- | --- | --- |
-| Bertin Iradukunda | [@Bertin-Ir](https://github.com/Bertin-Ir) | [LinkedIn](https://www.linkedin.com/in/bertin-iradukunda-b14606250/) |
-| [Team member 2] | [@github-username](https://github.com/github-username) | [Personal site / LinkedIn] |
-| [Team member 3] | [@github-username](https://github.com/github-username) | [Personal site / LinkedIn] |
-| [Team member 4] | [@github-username](https://github.com/github-username) | [Personal site / LinkedIn] |
+## Core Team
+ 
+- [Bertin](https://github.com/Bertin-Ir)
+- [Kumneger](https://github.com/ken11235)
+- [Ryan](https://github.com/Exlanious)
+- [Esitfanos](https://github.com/Estifanos-Wassie)
 
 ---
-
 ## History
 
 ApplyTrack started as a team project for  Agile Software Development and DevOps course at NYU in Fall 2026. 
@@ -61,7 +58,7 @@ We welcome contributions from team members and other students. Please read [CONT
 
 ## Building and Testing
 
-> To be shared as we progress to that stage.
+To be shared as we progress to that stage.
 
 ### Prerequisites
 
