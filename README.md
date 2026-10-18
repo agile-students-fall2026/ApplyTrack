@@ -1,19 +1,75 @@
-# Project Repository
+# ApplyTrack
 
-This repository will be used for team projects.
+ApplyTrack is a mobile-first web application that helps college students organize and manage their internship and job applications in one place.
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+> **Status:** In development. This README is updated as the project moves through each sprint.
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+---
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+## Product Vision Statement
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
+**For** college students actively applying to internships and full-time jobs, **who** struggle to keep track of dozens of applications spread across emails, company portals, spreadsheets, and notes, **ApplyTrack** is a mobile-first web application **that** gives them one central place to record every application, follow its status, remember important deadlines, and see how their recruiting season is going. **Unlike** spreadsheets or general-purpose note-taking apps, **ApplyTrack** is built specifically for the recruiting process, with a status pipeline, reminders, and recruiting statistics designed around how students actually apply.
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
+---
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
+## What and Why?
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
+Students applying to internships often send out dozens of applications at the same time. After a while, it becomes difficult to remember which companies they applied to, when they applied, and what stage each application is currently in. Important information can be spread across emails, company application portals, spreadsheets, and personal notes. This can make an already stressful recruiting process even harder to manage.
 
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+ApplyTrack solves this problem by giving students one central place to track their entire recruiting process. Instead of searching through emails or trying to remember the status of an application, students can quickly open the app and see everything they need to know.
+
+## For Whom?
+
+The main users of ApplyTrack are college students who are actively applying for internships and full-time jobs. Our initial users are students at NYU, including friends and classmates who are currently going through the recruiting process.
+
+These students are a good initial user group because many of them apply to a large number of positions during a recruiting season and already need some way to organize their applications. We gather feedback from real students throughout development and use it to improve the application.
+
+## How?
+
+- **Accounts:** Students create an account so their applications are saved and private.
+- **Applications:** For every job or internship, students can save the company, position, application date, job link, location, notes, recruiter contact, and the resume they used.
+- **Status pipeline:** Each application has a status that is updated as the student moves through the process:
+
+  **Applied → Online Assessment → Recruiter Screen → Interview → Offer / Rejected**
+
+- **Dashboard:** An overview of all applications, with search, filtering, and sorting by company, status, or date.
+- **Dates and reminders:** Students track online assessment deadlines, interviews, and follow-ups, and get reminded so they don't miss them.
+- **Recruiting statistics:** Total applications submitted, number that led to interviews, response rate, and active applications.
+---
+
+## Core Team
+ 
+- [Bertin](https://github.com/Bertin-Ir)
+- [Kumneger](https://github.com/ken11235)
+- [Ryan](https://github.com/Exlanious)
+- [Esitfanos](https://github.com/Estifanos-Wassie)
+
+---
+## History
+
+ApplyTrack started as a team project for  Agile Software Development and DevOps course at NYU in Fall 2026. 
+---
+
+## Contributing
+
+We welcome contributions from team members and other students. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before getting started. It explains our team norms, Git workflow, and how to submit changes.
+
+---
+
+## Building and Testing
+
+To be shared as we progress to that stage.
+
+### Prerequisites
+
+- To be completed
+
+### Setup
+
+- To be updated
+
+
+### Running the app locally
+
+- To be completed
+
