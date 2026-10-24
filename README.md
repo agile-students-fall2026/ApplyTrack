@@ -42,7 +42,7 @@ These students are a good initial user group because many of them apply to a lar
 - [Bertin](https://github.com/Bertin-Ir)
 - [Kumneger](https://github.com/ken11235)
 - [Ryan](https://github.com/Exlanious)
-- [Esitfanos](https://github.com/Estifanos-Wassie)
+- [Estifanos](https://github.com/Estifanos-Wassie)
 
 ---
 ## History
